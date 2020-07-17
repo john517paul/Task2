@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(239, 245, 248);
+}
+.container{
+    background-color: white;
+    height: 35em;
+    box-sizing: border-box;
+    
+}
+.col-7{
+    height: 32em;
+    box-shadow: 1px 1px 8px 1px  #999;
+}
+.col-5{
+    position: relative;
+    height: 32em;
+    background: url(images/rools.jpg) center;
+    /* background-color: rgb(26, 26, 32); */
+    color:rgb(189, 184, 184);
+   
+}
+.form-control{
+    width: 90%;
+    
+}
+.btn-primary{
+    width: 30%;
+}
+.wrap{
+    position: absolute;
+}
+.color-overlay{
+    position: absolute;
+    background-color:rgb(36, 35, 35);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.8;
+}
+
+
+
